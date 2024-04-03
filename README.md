@@ -4,3 +4,4 @@ Este repositório está sendo ministrado para a disciplina de Mineração de Tex
 O Objetivo deste repositório é fazer uma mineração de texto de currículos de emprego, extraindo habilidades, experiências e qualificações, combinando-as com as necessidades das descrições de vagas de emprego.
 
 Os dados foram obtidos via [kaggle](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset/data).
+
