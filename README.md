@@ -5,3 +5,5 @@ O Objetivo deste repositório é fazer uma mineração de texto de currículos d
 
 Os dados foram obtidos via [kaggle](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset/data).
 
+
+pip install -r requirements.txt
