@@ -4,3 +4,4 @@ scikit_learn
 scipy
 seaborn
 matplotlib 
+spacy >=3.7
