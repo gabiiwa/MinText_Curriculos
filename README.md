@@ -7,3 +7,5 @@ Os dados foram obtidos via [kaggle](https://www.kaggle.com/datasets/snehaanbhawa
 
 
 pip install -r requirements.txt
+
+[Artigo - Overleaf](https://www.overleaf.com/read/rrwtvtryvfgg#5b27a3)
